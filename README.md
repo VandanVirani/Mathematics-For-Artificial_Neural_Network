@@ -56,9 +56,9 @@
 <img src="https://user-images.githubusercontent.com/76767487/147934683-a9fb68fe-4fbe-425f-8a3c-b7cd7d826b52.png" width="700" height="400">
 
 𝐟𝐨𝐫 𝐬𝐢𝐠𝐦𝐨𝐢𝐝 , 
-𝐨𝐮𝐭𝐩𝐮𝐭 = 𝟏 / (𝟏 + 𝐞**(-𝐬𝐮𝐦) )
-, 𝐚𝐧𝐝 𝐭𝐡𝐢𝐬 𝐨𝐮𝐭𝐩𝐮𝐭 𝐢𝐬 𝐭𝐚𝐤𝐞𝐧 𝐚𝐬 𝐢𝐧𝐩𝐮𝐭 𝐟𝐨𝐫 𝐧𝐞𝐱𝐭 𝐥𝐚𝐲𝐞𝐫 𝐚𝐧𝐝 𝐬𝐨 𝐨𝐧
-𝐎𝐧 𝐥𝐚𝐫𝐠𝐞 𝐬𝐜𝐚𝐥𝐞
+𝐨𝐮𝐭𝐩𝐮𝐭 = 𝟏 / (𝟏 + 𝐞**(-𝐬𝐮𝐦) ) , 𝐚𝐧𝐝 𝐭𝐡𝐢𝐬 𝐨𝐮𝐭𝐩𝐮𝐭 𝐢𝐬 𝐭𝐚𝐤𝐞𝐧 𝐚𝐬 𝐢𝐧𝐩𝐮𝐭 𝐟𝐨𝐫 𝐧𝐞𝐱𝐭 𝐥𝐚𝐲𝐞𝐫 𝐚𝐧𝐝 𝐬𝐨 𝐨𝐧 , 𝐎𝐧 𝐥𝐚𝐫𝐠𝐞 𝐬𝐜𝐚𝐥𝐞
+
+<img src="https://github.com/VandanVirani/Mathematics-For-Artificial_Neural_Network/issues/2#issue-1092533335" width="700" height="400">
 
  
  
