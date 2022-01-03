@@ -55,7 +55,7 @@
 
 <img src="https://user-images.githubusercontent.com/76767487/147934683-a9fb68fe-4fbe-425f-8a3c-b7cd7d826b52.png" width="700" height="400">
 
-𝐟𝐨𝐫 𝐬𝐢𝐠𝐦𝐨𝐢𝐝
+𝐟𝐨𝐫 𝐬𝐢𝐠𝐦𝐨𝐢𝐝 . 
 𝐚𝐜_𝐟𝐮𝐧 = 𝟏 / (𝟏 + 𝐞**(-𝐬𝐮𝐦) )
 
  
