@@ -21,10 +21,15 @@
 
 𝟏) 𝐈𝐧𝐩𝐮𝐭 : 𝐓𝐡𝐞 𝐢𝐧𝐩𝐮𝐭 𝐥𝐚𝐲𝐞𝐫 𝐢𝐬 𝐭𝐡𝐞 𝐯𝐞𝐫𝐲 𝐛𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠 𝐨𝐟 𝐭𝐡𝐞 𝐰𝐨𝐫𝐤𝐟𝐥𝐨𝐰 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐚𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐧𝐞𝐮𝐫𝐚𝐥 𝐧𝐞𝐭𝐰𝐨𝐫𝐤. 𝐃𝐚𝐭𝐚 𝐢𝐬 𝐭𝐚𝐤𝐞𝐧 𝐚𝐬 𝐢𝐧𝐩𝐮𝐭 𝐢𝐧 𝐢𝐧𝐩𝐮𝐭 𝐥𝐚𝐲𝐞𝐫 . 𝐟𝐨𝐫 𝐞𝐱𝐚𝐦𝐩𝐥𝐞 𝐌𝐍𝐈𝐒𝐓 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 𝐰𝐡𝐢𝐜𝐡 𝐜𝐨𝐧𝐭𝐚𝐢𝐧𝐬 𝟔𝟎𝟎𝟎𝟎 𝐡𝐚𝐧𝐝𝐰𝐫𝐢𝐭𝐭𝐞𝐧 𝐧𝐮𝐦𝐛𝐞𝐫𝐬 𝐢𝐦𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐞𝐚𝐜𝐡 𝐢𝐦𝐚𝐠𝐞𝐬 𝐡𝐚𝐯𝐞 𝟐𝟖 𝐱 𝟐𝟖 𝐩𝐢𝐱𝐞𝐥 . 𝐬𝐨 𝐰𝐞 𝐰𝐢𝐥𝐥 𝐜𝐨𝐧𝐯𝐞𝐫𝐭 𝐭𝐡𝐞 𝟐 𝐝𝐢𝐦𝐞𝐧𝐬𝐢𝐨𝐧𝐚𝐥 𝐚𝐫𝐫𝐚𝐭 𝐢𝐧𝐭𝐨 𝐬𝐢𝐧𝐠𝐥𝐞 𝐚𝐫𝐫𝐚𝐲 𝐞.𝐠 𝟐𝟖𝐱𝟐𝟖= 𝟕𝟖𝟒 𝐚𝐧𝐝 𝐟𝐞𝐞𝐝 𝐢𝐧 𝐍𝐞𝐮𝐫𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤  𝐢𝐧 𝐨𝐮𝐭 𝐢𝐧𝐩𝐮𝐭 𝐥𝐚𝐲𝐞𝐫 𝐦𝐞𝐚𝐧𝐬 𝐭𝐡𝐞𝐫𝐞 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐮𝐩𝐭𝐨 𝐢𝐧𝐩𝐮𝐭𝟕𝟖𝟒 𝐢𝐧 𝐚𝐛𝐨𝐯𝐞 𝐢𝐦𝐚𝐠𝐞
 
-2) Bias : Bias is nothing but a constant which helps us to Shift our function upward or Downward for example 
-          Initially our Bias is zero , and below image show that our function does not fit well . 
-![WhatsApp Image 2022-01-03 at 11 46 44 AM](https://user-images.githubusercontent.com/76767487/147907231-7b6d14a1-0dfc-4795-be60-3d4f77b73702.jpeg)
-![WhatsApp Image 2022-01-03 at 11 46 43 AM](https://user-images.githubusercontent.com/76767487/147907237-8e23bddf-fa62-404d-9aff-90e64259c54d.jpeg)
+𝟐) 𝐁𝐢𝐚𝐬 : 𝐁𝐢𝐚𝐬 𝐢𝐬 𝐧𝐨𝐭𝐡𝐢𝐧𝐠 𝐛𝐮𝐭 𝐚 𝐜𝐨𝐧𝐬𝐭𝐚𝐧𝐭 𝐰𝐡𝐢𝐜𝐡 𝐡𝐞𝐥𝐩𝐬 𝐮𝐬 𝐭𝐨 𝐒𝐡𝐢𝐟𝐭 𝐨𝐮𝐫 𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐮𝐩𝐰𝐚𝐫𝐝 𝐨𝐫 𝐃𝐨𝐰𝐧𝐰𝐚𝐫𝐝 𝐟𝐨𝐫 𝐞𝐱𝐚𝐦𝐩𝐥𝐞 
+          𝐈𝐧𝐢𝐭𝐢𝐚𝐥𝐥𝐲 𝐨𝐮𝐫 𝐁𝐢𝐚𝐬 𝐢𝐬 𝐳𝐞𝐫𝐨 , 𝐚𝐧𝐝 𝐛𝐞𝐥𝐨𝐰 𝐢𝐦𝐚𝐠𝐞 𝐬𝐡𝐨𝐰 𝐭𝐡𝐚𝐭 𝐨𝐮𝐫 𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐝𝐨𝐞𝐬 𝐧𝐨𝐭 𝐟𝐢𝐭 𝐰𝐞𝐥𝐥 .
+
+<img src="https://user-images.githubusercontent.com/76767487/147926230-65b5d87f-3d6f-49f3-b724-b8256099b710.jpeg" width="400" height="400">
+
+          𝐓𝐨 𝐅𝐢𝐭 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚 𝐰𝐞𝐥𝐥  𝐰𝐞 𝐧𝐞𝐞𝐝 𝐭𝐨 𝐬𝐡𝐢𝐟𝐭 𝐨𝐮𝐫 𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐢𝐧 𝐮𝐩𝐰𝐚𝐫𝐝 𝐝𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧 . 𝐈𝐭 𝐜𝐚𝐧 𝐛𝐞 𝐝𝐨𝐧𝐞 𝐛𝐲 𝐢𝐧𝐜𝐫𝐞𝐦𝐞𝐧𝐭𝐢𝐧𝐠 𝐛𝐢𝐚𝐬 .
+<img src="https://user-images.githubusercontent.com/76767487/147926234-d7e487ab-79a3-4de6-b405-efb8dacdd567.jpeg" width="400" height="400">
+
+
 ```markdown
 Syntax highlighted code block
 
