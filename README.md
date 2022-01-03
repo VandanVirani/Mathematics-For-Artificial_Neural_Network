@@ -1,8 +1,9 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/VandanVirani/Mathematics-For-Artificial_Neural_Network.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+𝐓𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐜𝐨𝐧𝐭𝐚𝐢𝐧 𝐭𝐡𝐞 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐚𝐥 𝐅𝐨𝐫𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧 𝐁𝐞𝐡𝐢𝐧𝐝 𝐍 𝐭𝐨 𝐍 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐍𝐞𝐮𝐫𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 .
+*       𝟏) 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐬 𝐁𝐞𝐡𝐢𝐧𝐝 𝐅𝐨𝐫𝐰𝐚𝐫𝐝 𝐏𝐫𝐨𝐩𝐚𝐠𝐚𝐭𝐢𝐨𝐧
+*       𝟐) 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐬 𝐁𝐞𝐡𝐢𝐧𝐝 𝐁𝐚𝐜𝐤𝐰𝐚𝐫𝐝 𝐏𝐫𝐨𝐩𝐚𝐠𝐚𝐭𝐢𝐨𝐧 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
