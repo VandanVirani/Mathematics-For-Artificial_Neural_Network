@@ -109,9 +109,9 @@
 <img src="https://user-images.githubusercontent.com/76767487/148008464-c1fd8039-ad94-4c99-9303-3f036ae07b98.jpeg" width=1000 height=400 />
 
 ### image 11
-<img src="https://user-images.githubusercontent.com/76767487/148009076-b1e9524c-f82c-420d-ae3f-4228bdfb2058.jpeg" width=1000 height=400 />
+<img src="https://user-images.githubusercontent.com/76767487/148009076-b1e9524c-f82c-420d-ae3f-4228bdfb2058.jpeg" width=1000 height=200 />
 
-diff(E) / diff(w5)  means diffrentiation of loss with respect to weights 5 (weights of last layer) . To get the value we have to back propagate in our way First obstacle is loss which is diff(E) / diff( out 1 )  which we can find by diffrentiation of Total error with respect to out 1 (:. E is total error you can find in above image). Second obstacle is backpropagate through activation function (out1) which is diff(out 1) / diff(net 1 ) (:. you will get by diffrentiation of sigmoid function 1/(1+ e**(-out))  ) . Third obstacle is backpropagation through summation function (net1) which we get by diff(net 1) / diff( w5)  because we are diffrentiating error with respect to w5 . you can get all the answer that what is net1 ,out1 in above images . 
+diff(E) / diff(w5)  means diffrentiation of loss with respect to weights 5 (weights of last layer) . To get the value we have to back propagate in our way First obstacle is loss which is diff(E) / diff( out 1 )  which we can find by diffrentiation of Total error with respect to out 1 (:. E is total error you can find in above image). Second obstacle is backpropagate through activation function (out1) which is diff(out 1) / diff(net 1 ) (:. you will get by diffrentiation of sigmoid function 1/(1+ e**(-out))  ) . Third obstacle is backpropagation through summation function (net1) which we get by diff(net 1) / diff( w5)  because we are diffrentiating error with respect to w5 . you can get all the answer that what is net1 , out1 in above images 6. 
 
 
 
@@ -137,13 +137,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VandanVirani/Mathematics-For-Artificial_Neural_Network.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
