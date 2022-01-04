@@ -110,11 +110,23 @@
 
 
 ### image 11
-<img src="https://user-images.githubusercontent.com/76767487/148021801-5f0ed847-f500-4232-89b8-e78fd274f4ab.jpeg" width=1000 height=400 />
+<img src="https://user-images.githubusercontent.com/76767487/148021801-5f0ed847-f500-4232-89b8-e78fd274f4ab.jpeg" width=1000 height=250 />
 
-diff(E) / diff(w5)  means diffrentiation of loss with respect to weights 5 (weights of last layer) . To get the value we have to back propagate in our way First obstacle is loss which is diff(E) / diff( out 1 )  which we can find by diffrentiation of Total error with respect to out 1 (:. E is total error you can find in above image). Second obstacle is backpropagate through activation function (out1) which is diff(out 1) / diff(net 1 ) (:. you will get by diffrentiation of sigmoid function 1/(1+ e**(-out))  ) . Third obstacle is backpropagation through summation function (net1) which we get by diff(net 1) / diff( w5)  because we are diffrentiating error with respect to w5 . you can get all the answer that what is net1 , out1 in above images 6. 
+𝐝𝐢𝐟𝐟(𝐄) / 𝐝𝐢𝐟𝐟(𝐰𝟓)  𝐦𝐞𝐚𝐧𝐬 𝐝𝐢𝐟𝐟𝐫𝐞𝐧𝐭𝐢𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐥𝐨𝐬𝐬 𝐰𝐢𝐭𝐡 𝐫𝐞𝐬𝐩𝐞𝐜𝐭 𝐭𝐨 𝐰𝐞𝐢𝐠𝐡𝐭𝐬 𝟓 (𝐰𝐞𝐢𝐠𝐡𝐭𝐬 𝐨𝐟 𝐥𝐚𝐬𝐭 𝐥𝐚𝐲𝐞𝐫) . 𝐓𝐨 𝐠𝐞𝐭 𝐭𝐡𝐞 𝐯𝐚𝐥𝐮𝐞 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐭𝐨 𝐛𝐚𝐜𝐤 𝐩𝐫𝐨𝐩𝐚𝐠𝐚𝐭𝐞 𝐢𝐧 𝐨𝐮𝐫 𝐰𝐚𝐲 𝐅𝐢𝐫𝐬𝐭 𝐨𝐛𝐬𝐭𝐚𝐜𝐥𝐞 𝐢𝐬 𝐥𝐨𝐬𝐬 𝐰𝐡𝐢𝐜𝐡 𝐢𝐬 𝐝𝐢𝐟𝐟(𝐄) / 𝐝𝐢𝐟𝐟( 𝐨𝐮𝐭 𝟏 )  𝐰𝐡𝐢𝐜𝐡 𝐰𝐞 𝐜𝐚𝐧 𝐟𝐢𝐧𝐝 𝐛𝐲 𝐝𝐢𝐟𝐟𝐫𝐞𝐧𝐭𝐢𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐓𝐨𝐭𝐚𝐥 𝐞𝐫𝐫𝐨𝐫 𝐰𝐢𝐭𝐡 𝐫𝐞𝐬𝐩𝐞𝐜𝐭 𝐭𝐨 𝐨𝐮𝐭 𝟏 (:. 𝐄 𝐢𝐬 𝐭𝐨𝐭𝐚𝐥 𝐞𝐫𝐫𝐨𝐫 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐟𝐢𝐧𝐝 𝐢𝐧 𝐚𝐛𝐨𝐯𝐞 𝐢𝐦𝐚𝐠𝐞). 𝐒𝐞𝐜𝐨𝐧𝐝 𝐨𝐛𝐬𝐭𝐚𝐜𝐥𝐞 𝐢𝐬 𝐛𝐚𝐜𝐤𝐩𝐫𝐨𝐩𝐚𝐠𝐚𝐭𝐞 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐚𝐜𝐭𝐢𝐯𝐚𝐭𝐢𝐨𝐧 𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧 (𝐨𝐮𝐭𝟏) 𝐰𝐡𝐢𝐜𝐡 𝐢𝐬 𝐝𝐢𝐟𝐟(𝐨𝐮𝐭 𝟏) / 𝐝𝐢𝐟𝐟(𝐧𝐞𝐭 𝟏 ) (:. 𝐲𝐨𝐮 𝐰𝐢𝐥𝐥 𝐠𝐞𝐭 𝐛𝐲 𝐝𝐢𝐟𝐟𝐫𝐞𝐧𝐭𝐢𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐬𝐢𝐠𝐦𝐨𝐢𝐝 𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝟏/(𝟏+ 𝐞**(-𝐨𝐮𝐭))  ) . 𝐓𝐡𝐢𝐫𝐝 𝐨𝐛𝐬𝐭𝐚𝐜𝐥𝐞 𝐢𝐬 𝐛𝐚𝐜𝐤𝐩𝐫𝐨𝐩𝐚𝐠𝐚𝐭𝐢𝐨𝐧 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐬𝐮𝐦𝐦𝐚𝐭𝐢𝐨𝐧 𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧 (𝐧𝐞𝐭𝟏) 𝐰𝐡𝐢𝐜𝐡 𝐰𝐞 𝐠𝐞𝐭 𝐛𝐲 𝐝𝐢𝐟𝐟(𝐧𝐞𝐭 𝟏) / 𝐝𝐢𝐟𝐟( 𝐰𝟓)  𝐛𝐞𝐜𝐚𝐮𝐬𝐞 𝐰𝐞 𝐚𝐫𝐞 𝐝𝐢𝐟𝐟𝐫𝐞𝐧𝐭𝐢𝐚𝐭𝐢𝐧𝐠 𝐞𝐫𝐫𝐨𝐫 𝐰𝐢𝐭𝐡 𝐫𝐞𝐬𝐩𝐞𝐜𝐭 𝐭𝐨 𝐰𝟓 . 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐠𝐞𝐭 𝐚𝐥𝐥 𝐭𝐡𝐞 𝐚𝐧𝐬𝐰𝐞𝐫 𝐭𝐡𝐚𝐭 𝐰𝐡𝐚𝐭 𝐢𝐬 𝐧𝐞𝐭𝟏 , 𝐨𝐮𝐭𝟏 𝐢𝐧 𝐚𝐛𝐨𝐯𝐞 𝐢𝐦𝐚𝐠𝐞𝐬 𝟔.
 
+### image 12
+<img src="https://user-images.githubusercontent.com/76767487/148022361-15f24030-40ff-4793-b626-891a7f76c1c4.jpeg" width=1000 height=400 />
 
+Hence we have find the diffrentiation of error with respect to weight 5 we can calculate new value of of weight 5 by formula . Here LR is learning rate (:. best value is 0.01)
+LR means how much fast our model learn , LR neither be too large nor be too small . 
+
+Now same process is done to update the all the weights in last layer (:. w6,w7,w8).
+
+### image 13
+<img src="https://user-images.githubusercontent.com/76767487/148023261-731cc470-733f-4a10-ab5e-7e5094a862d9.jpeg" width=1000 height=900 />
+
+### image 14
+<img src="https://user-images.githubusercontent.com/76767487/148023256-93ffdfd0-07bb-4858-a8bb-7548a09a2e4c.jpeg" width=1000 height=400 />
 
 
 
