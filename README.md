@@ -128,25 +128,3 @@ Now same process is done to update the all the weights in last layer (:. w6,w7,w
 ### image 14
 <img src="https://user-images.githubusercontent.com/76767487/148023256-93ffdfd0-07bb-4858-a8bb-7548a09a2e4c.jpeg" width=1000 height=400 />
 
-
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
