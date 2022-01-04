@@ -128,3 +128,12 @@
 ### image 14
 <img src="https://user-images.githubusercontent.com/76767487/148023256-93ffdfd0-07bb-4858-a8bb-7548a09a2e4c.jpeg" width=1000 height=400 />
 
+### 𝐖𝐞𝐢𝐠𝐡𝐭𝐬 𝐨𝐟 𝐥𝐚𝐬𝐭 𝐥𝐚𝐲𝐞𝐫 𝐢𝐬 𝐜𝐥𝐞𝐚𝐫𝐞𝐝 𝐧𝐨𝐰 𝐢𝐭𝐬 𝐭𝐢𝐦𝐞 𝐭𝐨 𝐮𝐩𝐝𝐚𝐭𝐞 𝐬𝐞𝐜𝐨𝐧𝐝 𝐥𝐚𝐬𝐭 𝐥𝐚𝐲𝐞𝐫 𝐰𝐞𝐢𝐠𝐡𝐭𝐬 .
+
+now its going to some tough work here , but no problem once you get practice you will figure out . 
+For backpropagation through second layer first we need to propagate last layer which we have already done because we need answer of diffrentiation of last layer in second last layer . 
+
+### image 15
+<img src="https://user-images.githubusercontent.com/76767487/148025372-57afe6d9-f0b0-48a1-9b1b-5f7d92a98696.jpeg" width=1000 height=400 />
+
+
