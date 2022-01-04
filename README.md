@@ -106,10 +106,11 @@
 <img src="https://user-images.githubusercontent.com/76767487/148008460-9dcb8213-be57-4486-9040-621270d45459.jpeg" width=700 height=400 />
 
 ### image 10
-<img src="https://user-images.githubusercontent.com/76767487/148008464-c1fd8039-ad94-4c99-9303-3f036ae07b98.jpeg" width=1000 height=400 />
+<img src="https://user-images.githubusercontent.com/76767487/148009076-b1e9524c-f82c-420d-ae3f-4228bdfb2058.jpeg" width=1000 height=200 />
+
 
 ### image 11
-<img src="https://user-images.githubusercontent.com/76767487/148009076-b1e9524c-f82c-420d-ae3f-4228bdfb2058.jpeg" width=1000 height=200 />
+<img src="https://user-images.githubusercontent.com/76767487/148021801-5f0ed847-f500-4232-89b8-e78fd274f4ab.jpeg" width=1000 height=400 />
 
 diff(E) / diff(w5)  means diffrentiation of loss with respect to weights 5 (weights of last layer) . To get the value we have to back propagate in our way First obstacle is loss which is diff(E) / diff( out 1 )  which we can find by diffrentiation of Total error with respect to out 1 (:. E is total error you can find in above image). Second obstacle is backpropagate through activation function (out1) which is diff(out 1) / diff(net 1 ) (:. you will get by diffrentiation of sigmoid function 1/(1+ e**(-out))  ) . Third obstacle is backpropagation through summation function (net1) which we get by diff(net 1) / diff( w5)  because we are diffrentiating error with respect to w5 . you can get all the answer that what is net1 , out1 in above images 6. 
 
