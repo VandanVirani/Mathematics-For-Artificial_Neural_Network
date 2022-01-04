@@ -117,10 +117,10 @@
 ### image 12
 <img src="https://user-images.githubusercontent.com/76767487/148022361-15f24030-40ff-4793-b626-891a7f76c1c4.jpeg" width=1000 height=400 />
 
-Hence we have find the diffrentiation of error with respect to weight 5 we can calculate new value of of weight 5 by formula . Here LR is learning rate (:. best value is 0.01)
-LR means how much fast our model learn , LR neither be too large nor be too small . 
+𝐇𝐞𝐧𝐜𝐞 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐟𝐢𝐧𝐝 𝐭𝐡𝐞 𝐝𝐢𝐟𝐟𝐫𝐞𝐧𝐭𝐢𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐞𝐫𝐫𝐨𝐫 𝐰𝐢𝐭𝐡 𝐫𝐞𝐬𝐩𝐞𝐜𝐭 𝐭𝐨 𝐰𝐞𝐢𝐠𝐡𝐭 𝟓 𝐰𝐞 𝐜𝐚𝐧 𝐜𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞 𝐧𝐞𝐰 𝐯𝐚𝐥𝐮𝐞 𝐨𝐟 𝐨𝐟 𝐰𝐞𝐢𝐠𝐡𝐭 𝟓 𝐛𝐲 𝐟𝐨𝐫𝐦𝐮𝐥𝐚 . 𝐇𝐞𝐫𝐞 𝐋𝐑 𝐢𝐬 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐫𝐚𝐭𝐞 (:. 𝐛𝐞𝐬𝐭 𝐯𝐚𝐥𝐮𝐞 𝐢𝐬 𝟎.𝟎𝟏)
+𝐋𝐑 𝐦𝐞𝐚𝐧𝐬 𝐡𝐨𝐰 𝐦𝐮𝐜𝐡 𝐟𝐚𝐬𝐭 𝐨𝐮𝐫 𝐦𝐨𝐝𝐞𝐥 𝐥𝐞𝐚𝐫𝐧 , 𝐋𝐑 𝐧𝐞𝐢𝐭𝐡𝐞𝐫 𝐛𝐞 𝐭𝐨𝐨 𝐥𝐚𝐫𝐠𝐞 𝐧𝐨𝐫 𝐛𝐞 𝐭𝐨𝐨 𝐬𝐦𝐚𝐥𝐥 . 
 
-Now same process is done to update the all the weights in last layer (:. w6,w7,w8).
+### 𝐍𝐨𝐰 𝐬𝐚𝐦𝐞 𝐩𝐫𝐨𝐜𝐞𝐬𝐬 𝐢𝐬 𝐝𝐨𝐧𝐞 𝐭𝐨 𝐮𝐩𝐝𝐚𝐭𝐞 𝐭𝐡𝐞 𝐚𝐥𝐥 𝐭𝐡𝐞 𝐰𝐞𝐢𝐠𝐡𝐭𝐬 𝐢𝐧 𝐥𝐚𝐬𝐭 𝐥𝐚𝐲𝐞𝐫 (:. 𝐰𝟔,𝐰𝟕,𝐰𝟖).
 
 ### image 13
 <img src="https://user-images.githubusercontent.com/76767487/148023261-731cc470-733f-4a10-ab5e-7e5094a862d9.jpeg" width=1000 height=900 />
