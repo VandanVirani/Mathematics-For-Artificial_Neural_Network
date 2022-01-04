@@ -134,6 +134,9 @@ now its going to some tough work here , but no problem once you get practice you
 For backpropagation through second layer first we need to propagate last layer which we have already done because we need answer of diffrentiation of last layer in second last layer . 
 
 ### image 15
-<img src="https://user-images.githubusercontent.com/76767487/148025372-57afe6d9-f0b0-48a1-9b1b-5f7d92a98696.jpeg" width=1000 height=400 />
+<img src="https://user-images.githubusercontent.com/76767487/148025372-57afe6d9-f0b0-48a1-9b1b-5f7d92a98696.jpeg" width=1000 height=900 />
 
 
+### same as w1 , w2, w3 
+
+## Any question comment below
