@@ -139,4 +139,4 @@ For backpropagation through second layer first we need to propagate last layer w
 
 ### same as w1 , w2, w3 
 
-## Any question do ask
+## you can get entire forward and backward sum in work ANN pdf file  . Any question , do ask
