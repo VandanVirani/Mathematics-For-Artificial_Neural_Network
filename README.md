@@ -131,13 +131,13 @@
 
 ### 𝐖𝐞𝐢𝐠𝐡𝐭𝐬 𝐨𝐟 𝐥𝐚𝐬𝐭 𝐥𝐚𝐲𝐞𝐫 𝐢𝐬 𝐜𝐥𝐞𝐚𝐫𝐞𝐝 𝐧𝐨𝐰 𝐢𝐭𝐬 𝐭𝐢𝐦𝐞 𝐭𝐨 𝐮𝐩𝐝𝐚𝐭𝐞 𝐬𝐞𝐜𝐨𝐧𝐝 𝐥𝐚𝐬𝐭 𝐥𝐚𝐲𝐞𝐫 𝐰𝐞𝐢𝐠𝐡𝐭𝐬 .
 
-now its going to some tough work here , but no problem once you get practice you will figure out . 
-For backpropagation through second layer first we need to propagate last layer which we have already done because we need answer of diffrentiation of last layer in second last layer . 
+𝐧𝐨𝐰 𝐢𝐭𝐬 𝐠𝐨𝐢𝐧𝐠 𝐭𝐨 𝐬𝐨𝐦𝐞 𝐭𝐨𝐮𝐠𝐡 𝐰𝐨𝐫𝐤 𝐡𝐞𝐫𝐞 , 𝐛𝐮𝐭 𝐧𝐨 𝐩𝐫𝐨𝐛𝐥𝐞𝐦 𝐨𝐧𝐜𝐞 𝐲𝐨𝐮 𝐠𝐞𝐭 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞 𝐲𝐨𝐮 𝐰𝐢𝐥𝐥 𝐟𝐢𝐠𝐮𝐫𝐞 𝐨𝐮𝐭 . 
+𝐅𝐨𝐫 𝐛𝐚𝐜𝐤𝐩𝐫𝐨𝐩𝐚𝐠𝐚𝐭𝐢𝐨𝐧 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐬𝐞𝐜𝐨𝐧𝐝 𝐥𝐚𝐲𝐞𝐫 𝐟𝐢𝐫𝐬𝐭 𝐰𝐞 𝐧𝐞𝐞𝐝 𝐭𝐨 𝐩𝐫𝐨𝐩𝐚𝐠𝐚𝐭𝐞 𝐥𝐚𝐬𝐭 𝐥𝐚𝐲𝐞𝐫 𝐰𝐡𝐢𝐜𝐡 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐚𝐥𝐫𝐞𝐚𝐝𝐲 𝐝𝐨𝐧𝐞 𝐛𝐞𝐜𝐚𝐮𝐬𝐞 𝐰𝐞 𝐧𝐞𝐞𝐝 𝐚𝐧𝐬𝐰𝐞𝐫 𝐨𝐟 𝐝𝐢𝐟𝐟𝐫𝐞𝐧𝐭𝐢𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐥𝐚𝐬𝐭 𝐥𝐚𝐲𝐞𝐫 𝐢𝐧 𝐬𝐞𝐜𝐨𝐧𝐝 𝐥𝐚𝐬𝐭 𝐥𝐚𝐲𝐞𝐫 .
 
 ### image 15
 <img src="https://user-images.githubusercontent.com/76767487/148025372-57afe6d9-f0b0-48a1-9b1b-5f7d92a98696.jpeg" width=1000 height=900 />
 
 
-### same as w1 , w2, w3 
+### 𝐬𝐚𝐦𝐞 𝐚𝐬 𝐰𝟏 , 𝐰𝟐, 𝐰𝟑 
 
-## you can get entire forward and backward sum in work ANN pdf file  . Any question , do ask
+## 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐠𝐞𝐭 𝐞𝐧𝐭𝐢𝐫𝐞 𝐟𝐨𝐫𝐰𝐚𝐫𝐝 𝐚𝐧𝐝 𝐛𝐚𝐜𝐤𝐰𝐚𝐫𝐝 𝐬𝐮𝐦 𝐢𝐧 𝐰𝐨𝐫𝐤 𝐀𝐍𝐍 𝐩𝐝𝐟 𝐟𝐢𝐥𝐞  . 𝐀𝐧𝐲 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧 , 𝐝𝐨 𝐚𝐬𝐤
